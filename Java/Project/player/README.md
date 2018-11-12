@@ -13,6 +13,7 @@
 - 将具体音乐添加至具体歌单　
 - 本地歌单及音乐上传至服务端
 # Notice:
+- OS: Ubuntu 16.04    SQL: MariaDB  (Mysql的一种)
 - 数据库没有采用外键形式，皆为多表查询，与东哥不同之处为，musicsheet表中添加了列"musicId",与music表发生关系...
 - 为实现所有功能自动化，拟将所有歌曲放入/root/CloudMusic文件夹内，包括下载的歌曲.
 - 使用Maven建立工程，在pom.xml里加入东哥文件中的pom.xml内容，不然你会看到很多小叉叉...
