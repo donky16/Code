@@ -1,0 +1,8 @@
+1.数据库为MariaDB，MySQL使用者应该改变driver名称与相应jar包
+2.因为东哥说必须使用user=testuser，pwd=testpassword，所以需要为数据库添加用户，并赋予用户权限。方法如下：
+  mysql -u root -p        //cmd登录
+  mysql> insert into mysql.user(Host,User,Password) values("localhost","testuser",password("testpassword"));  //添加用户并设置密码，注意分号
+  mysql> create database terminaldb;  //创建数据库
+  mysql> grant all privileges on terminaldb.* to testuser@localhost identified by 'testpassword';  //赋予testuser访问terminaldb的权限
+  mysql> flush privileges;  //刷新系统权限表
+  这样就能实现东哥的要求了，通过java objc可以使用testuser身份访问数据库。。。

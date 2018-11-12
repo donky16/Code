@@ -1,0 +1,9 @@
+player/dao/MusicSheetDao.class
+player/dao/MusicDao.class
+player/client/clientupload/Uploader.class
+player/client/httpclient/HttpPostWithJSON.class
+player/client/httpclient/MusicSheetUploader.class
+player/client/httpclient/Music.class
+player/dao/ConnectDB.class
+player/client/httpclient/MusicSheet.class
+player/client/httpclient/MusicSheetAndFilesUploader.class
