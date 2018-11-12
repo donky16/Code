@@ -1,0 +1,15 @@
+c:\users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\bin\Debug\LibarayManage.exe.config
+c:\users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\bin\Debug\LibarayManage.exe
+c:\users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\bin\Debug\LibarayManage.pdb
+c:\users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\bin\Debug\MySql.Data.xml
+c:\users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.csprojResolveAssemblyReference.cache
+c:\users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.Properties.Resources.resources
+c:\users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.csproj.GenerateResource.Cache
+c:\users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.exe
+c:\users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.pdb
+C:\Users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.AdminForm.resources
+C:\Users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.LoginForm.resources
+C:\Users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.RootForm.resources
+C:\Users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.AddAdminForm.resources
+C:\Users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.AddBook.resources
+C:\Users\donky16\documents\visual studio 2015\Projects\LibarayManage\LibarayManage\obj\Debug\LibarayManage.root.UpdateBookForm.resources
