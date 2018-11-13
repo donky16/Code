@@ -12,7 +12,7 @@ public class ConnectDB {
 	private String driver = "org.mariadb.jdbc.Driver";
 	private String url = "jdbc:mariadb://localhost:3306/musicplayer";
 	private String user = "root";
-	private String pwd = "donky@16";
+	private String pwd = "your password";
 
 	public Connection Connect() {
 		try {
